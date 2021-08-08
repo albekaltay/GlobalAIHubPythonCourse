@@ -10,13 +10,7 @@
 ## Project Name
 Python Knowledge Competition
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
+
 
 ### Certification
 ![](img/myPythonCertificate.png)
